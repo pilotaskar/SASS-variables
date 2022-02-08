@@ -1,0 +1,10 @@
+$myColor: white;
+$backrounColor: black;
+$textPixels: 25px;
+
+
+p{
+    color: $myColor;
+    background-color: $backrounColor;
+    font-size: $textPixels;
+}
